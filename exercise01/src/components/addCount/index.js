@@ -98,6 +98,7 @@ class AddCount extends Component {
       if(value){
          this.setState({
             minimum: value,
+            count: value,
          })
 
    }

@@ -26,9 +26,7 @@
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addMinimumCaount/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addStep/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise02/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise02/src/components/showCard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/components/showCard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise02/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise01/src/components/addCount/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/components/addCount/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <workItem from="1664706214430" duration="212000" />
       <workItem from="1664706734980" duration="26000" />
       <workItem from="1664707033938" duration="83000" />
-      <workItem from="1664707244777" duration="15498000" />
+      <workItem from="1664707244777" duration="16660000" />
     </task>
     <servers />
   </component>
