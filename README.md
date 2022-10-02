@@ -5,7 +5,7 @@
 ~cd exercise01
 ### `npm install`
 ### `npm start`
-
+    
 
 ## 2. exercise 2 Create Unmounting count tracker
  To Run exercise02 project - go to folder exercise02 in terminal
@@ -22,3 +22,9 @@ To Run exercise03 project - go to folder exercise02 in terminal
 
 ### `npm install`
 ### `npm start`
+
+## What you need
+
+> Node installed ( > 14)
+>
+> Npm installed ( > 6 > )

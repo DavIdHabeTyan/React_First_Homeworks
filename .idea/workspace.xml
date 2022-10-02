@@ -25,8 +25,6 @@
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addMaximumcount/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addMinimumCaount/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addStep/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +66,7 @@
       <workItem from="1664706214430" duration="212000" />
       <workItem from="1664706734980" duration="26000" />
       <workItem from="1664707033938" duration="83000" />
-      <workItem from="1664707244777" duration="516000" />
+      <workItem from="1664707244777" duration="927000" />
     </task>
     <servers />
   </component>
