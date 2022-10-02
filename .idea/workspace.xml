@@ -25,7 +25,9 @@
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addMaximumcount/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addMinimumCaount/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addStep/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Davit/Desktop/New project",
+    "last_opened_file_path": "C:/Users/Davit/Desktop/React Homeworks",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -63,6 +65,10 @@
       <option name="presentableId" value="Default" />
       <updated>1664705237411</updated>
       <workItem from="1664705238646" duration="938000" />
+      <workItem from="1664706214430" duration="212000" />
+      <workItem from="1664706734980" duration="26000" />
+      <workItem from="1664707033938" duration="83000" />
+      <workItem from="1664707244777" duration="516000" />
     </task>
     <servers />
   </component>
