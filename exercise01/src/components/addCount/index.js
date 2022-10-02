@@ -34,7 +34,6 @@ class AddCount extends Component {
                isIncreased: true
             })
          }
-
          if(count - step < minimum) {
             this.setState({
                isDecreased: true,
@@ -75,7 +74,6 @@ class AddCount extends Component {
       this.setState({
          count: 0
       });
-
    }
 
    handelMaximumCount = (event) => {
@@ -86,8 +84,6 @@ class AddCount extends Component {
       //       maximum: this.input.maximum
       //    })
       // }
-
-
       this.setState({
          maximum: value,
       })
@@ -100,7 +96,6 @@ class AddCount extends Component {
             minimum: value,
             count: value,
          })
-
    }
 
    }

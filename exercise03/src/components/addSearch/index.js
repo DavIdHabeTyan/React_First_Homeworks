@@ -2,7 +2,7 @@ import {Component} from 'react';
 
 import WindowCountry from "../windowCountry";
 
-import Api from "../../data/api";
+import API_URL from "../data/index";
 
 class AddSearch extends Component {
    constructor() {
@@ -14,7 +14,7 @@ class AddSearch extends Component {
    }
 
    componentDidMount() {
-      fetch(Api).then(res => res.json())
+      fetch(API_URL).then(res => res.json())
          .then(res => {
             this.countrySearch = res;
          })
@@ -26,8 +26,6 @@ class AddSearch extends Component {
          searchInput: value.toLowerCase(),
       })
    }
-
-
 
    render() {
       const {handelInput, countrySearch} = this;

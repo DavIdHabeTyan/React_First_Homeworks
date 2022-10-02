@@ -26,7 +26,18 @@
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addMinimumCaount/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addStep/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise01/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise01/src/components/addCount/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/components/addCount/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise01/src/components/addStep/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/components/addStep/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise01/src/components/minimumInput/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/components/minimumInput/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise02/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise02/src/components/counterCards/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/components/counterCards/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise02/src/components/showCard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/components/showCard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise02/src/components/showCount/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/components/showCount/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise03/src/components/addSearch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise03/src/components/addSearch/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise03/src/components/input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise03/src/components/input/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise03/src/components/windowCountry/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise03/src/components/windowCountry/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise03/src/data/api.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +61,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Davit/Desktop/exercises02",
+    "last_opened_file_path": "C:/Users/Davit/Desktop/React Homeworks/exercise03/src/components",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Davit\Desktop\React Homeworks\exercise03\src\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Davit\Desktop\React Homeworks\exercise02\public\images" />
     </key>
@@ -72,7 +86,7 @@
       <workItem from="1664706214430" duration="212000" />
       <workItem from="1664706734980" duration="26000" />
       <workItem from="1664707033938" duration="83000" />
-      <workItem from="1664707244777" duration="16660000" />
+      <workItem from="1664707244777" duration="18071000" />
     </task>
     <servers />
   </component>

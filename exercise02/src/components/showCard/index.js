@@ -14,7 +14,6 @@ class ShowCard extends Component {
       this.setState({
          isClosedCards: !this.state.isClosedCards,
       })
-
    }
 
    render() {

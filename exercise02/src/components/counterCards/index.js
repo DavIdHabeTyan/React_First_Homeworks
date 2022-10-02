@@ -1,6 +1,7 @@
 import {Component} from "react";
 
 import ShowCard from "../showCard";
+
 import ShowCount from "../showCount";
 
 class CounterCards extends Component {
@@ -52,7 +53,6 @@ class CounterCards extends Component {
             </div>
             <button className={"container-button"} onClick={this.handleShowCardsCount}>Show Count</button>
             { this.state.isUnclosed ? <ShowCount cards={this.state.cards}/> : "" }
-
          </>
       )
    }

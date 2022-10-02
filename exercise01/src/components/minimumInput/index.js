@@ -5,8 +5,6 @@ constructor(props) {
    super(props);
 }
 
-
-
    render() {
       const {handelMinimumCount} = this.props;
       return (

@@ -1,13 +1,9 @@
 import  {Component} from 'react';
 
 class Index extends Component {
-constructor(props) {
-   super(props);
-}
-
 
    render() {
-   const {name, code, image} = this.props
+   const {name, image} = this.props
       return (
          <div className={"photoCard"}>
             <img className={"image"} src={image} alt=""/>

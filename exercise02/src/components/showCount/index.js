@@ -3,13 +3,10 @@ import {Component} from "react";
 
 class ShowCount extends Component{
 
-
-
    render() {
       const {cards} =this.props
       return(
          <div>
-
             {cards.map(card =>
                <ul key = { card.id }>
                <li className={"card-count"} >
@@ -20,7 +17,6 @@ class ShowCount extends Component{
          </div>
       )
    }
-
 }
 
 export default ShowCount
