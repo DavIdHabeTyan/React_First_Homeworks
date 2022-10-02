@@ -1,31 +1,49 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
 
-.cardContainer{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 300px;
+.container {
+  border-radius: 5px;
+  width: 250px;
   height: 300px;
-  border: 1px solid black;
-
+  border: 1px solid #0d91da;
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
 }
 
-.buttonClose{
-position: absolute;
-  gap: 16px;
-  padding: 16px;
-  top: 0;
-  left: 255px;
+.container-icon {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+}
+
+.container-text {
+  font-size: 6rem;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-image{
+  border-radius: 5px;
+  width: 250px;
+  height: 300px;
+
+}
+
+.container-button{
+  cursor: pointer;
+  border-color: #0db1c7;
+  border-radius: 3px;
+}
+
+.card-count > span{
+  font-size: 20px;
+  color: #0DB1C7FF;
+  font-weight: bold;
 }

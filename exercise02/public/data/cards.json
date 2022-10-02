@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "image": "/images/js.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "image": "/images/python.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "C++",
+    "image": "/images/c_logo.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "php",
+    "image": "/images/php.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Node.js",
+    "image": "/images/node.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Swift",
+    "image": "/images/swift.png",
+    "count": 0
+  }
+]

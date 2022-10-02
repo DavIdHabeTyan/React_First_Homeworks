@@ -25,7 +25,10 @@
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addMaximumcount/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addMinimumCaount/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../REACT/reacthomeworks/exercise01/src/components/addStep/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise02/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise02/src/components/showCard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/components/showCard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise02/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +52,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Davit/Desktop/React Homeworks",
+    "last_opened_file_path": "C:/Users/Davit/Desktop/exercises02",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Davit\Desktop\React Homeworks\exercise02\public\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +74,7 @@
       <workItem from="1664706214430" duration="212000" />
       <workItem from="1664706734980" duration="26000" />
       <workItem from="1664707033938" duration="83000" />
-      <workItem from="1664707244777" duration="927000" />
+      <workItem from="1664707244777" duration="15498000" />
     </task>
     <servers />
   </component>
